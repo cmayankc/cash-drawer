@@ -1,0 +1,12 @@
+{
+  "name": "cash-drawer",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "errorhandler": "^1.4.3",
+    "escpos": "^1.0.3",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {}
+}
